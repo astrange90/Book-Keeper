@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Book-Keeper",
+			"path": "../../Book-Keeper"
+		},
+		{
+			"name": "Develop",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
