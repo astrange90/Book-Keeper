@@ -3,7 +3,7 @@
 ## Description
 
  Intry to a Full stack development using the MERN method. This challenge was to incorporate a fully functioning
- Google Books Api search engine and refactor it to be a GraphQL API built with Apollo Server. Acommplish having
+ Google Books Api search engine and refactor it to be a GraphQL API built with Apollo Server. Accomplish having
  the application deployed to Render successfully.
 
 ## Table of Contents 
